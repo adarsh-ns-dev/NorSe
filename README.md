@@ -50,8 +50,27 @@
 
  
 
-<h1>Do you like the project ?</h1>
-<a href="https://www.buymeacoffee.com/adarshadarz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<div style="text-align: center; font-family: Arial, sans-serif; margin-top: 40px;">
+  <h1>Do you like the project?</h1>
+
+  <!-- Buy Me a Coffee Button -->
+  <a href="https://www.buymeacoffee.com/adarshadarz" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+         alt="Buy Me A Coffee" 
+         style="height: 41px; width: 174px; box-shadow: 0px 3px 2px rgba(190, 190, 190, 0.5); border-radius: 6px;">
+  </a>
+
+  <!-- Telegram Group Button -->
+  <a href="https://t.me/NorSeMusicPlayer" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+         alt="Join Telegram Group" 
+         style="height: 41px; width: 174px; box-shadow: 0px 3px 2px rgba(0, 136, 204, 0.5); border-radius: 6px;">
+  </a>
+
+  <p style="margin-top: 20px; font-size: 16px; color: #444;">
+    👉 Join the Telegram group to discuss any issues or share your feature ideas!
+  </p>
+</div>
 
 <h3 align="center">License :scroll:</h3>
 
